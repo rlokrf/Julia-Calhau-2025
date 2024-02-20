@@ -1,1 +1,1 @@
-# Minha primeira aula de linguagem de programçao!
+# Minha primeira aula de Linguagem de Programaçao!

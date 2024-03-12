@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <locale.h>
+
+int main(){
+    setlocale(LC_ALL,"");
+    long long int x, y;
+    printf("Digite o numero de vitorias e empates:");
+    scanf("%d %d", &x, &y);
+    printf("O numero de vitorias %d multiplicado por 3 é %d\n", x, x * 3);
+    printf("O numero de empates %d multiplicado por 1 é %d\n", y, y * 1);
+    return 0;
+}
